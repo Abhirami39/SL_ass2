@@ -1,5 +1,8 @@
 // calculate area and circumference of a circle given its radius 
 //the value of pi should be stored as an float constant
+
+//adding comment
+
 #include<stdio.h>
 main() {
 	float radius;
