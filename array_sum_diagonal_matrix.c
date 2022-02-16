@@ -1,4 +1,6 @@
 //sum of diagonal elements
+
+//making changes
 #include<stdio.h>
 int diagonal_value_addition(int r, int c, int A[][c]){
 	int i, j, sum;
