@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//adding comment
+
 main(){
 	int length,i=0, j=0,count=0;
 	printf("Enter the length of array");
